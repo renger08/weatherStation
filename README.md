@@ -1,6 +1,12 @@
 # Weather Station
  Recive Weather information from internet using API
 
+ ![GitHub Repo stars](https://img.shields.io/github/stars/renger08/weatherStation)
+ ![GitHub followers](https://img.shields.io/github/followers/renger08)
+![GitHub watchers](https://img.shields.io/github/watchers/renger08/weatherStation)
+
+
+
  ![](./pic/above%202.jpg)
 
  ![](./pic/screen%201.jpg)
