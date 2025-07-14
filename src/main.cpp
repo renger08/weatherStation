@@ -17,7 +17,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 const char* ssid = "Your-SSID-Here"; // Enter the Name of WIFI
 const char* password = "Your-WIFI-Password-Here"; // Enter the password of WIFI
 // Final URL for the API
-String URL = "https://api.open-meteo.com/v1/forecast?latitude=34.931768&longitude=48.461301&current=temperature_2m,relative_humidity_2m,wind_speed_10m,weather_code,apparent_temperature&timezone=auto";
+String URL = "https://api.open-meteo.com/v1/forecast?latitude=*********&longitude=*********&current=temperature_2m,relative_humidity_2m,wind_speed_10m,weather_code,apparent_temperature&timezone=auto";
 // Replace with your location Credentials             ******              ******
 // latitude  
 // longitude 
